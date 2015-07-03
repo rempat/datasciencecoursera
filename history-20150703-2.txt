@@ -1,0 +1,66 @@
+    1  git config --global user.name "rempat"
+    2  git config --global user.email "patterson@computer.org"
+    3  git config --list
+    4  history
+    5  history >history-20150703-1.txt
+    6  ls
+    7  ls hi*
+    8  exit
+    9  git --list
+   10  cat history-20150703-1.txt 
+   11  cat >HelloWorld.md
+   12  git push *
+   13  ls
+   14  cd datasciencecoursera/
+   15  ls
+   16  mv ../HelloWorld.md  .
+   17  git push *
+   18  git push *
+   19  cd ../da.practice/
+   20  git push *
+   21  git config --global user.name "rempat"
+   22  git config --global user.email "patterson@computer.org"
+   23  git push *
+   24  git config --global push.defaul simple
+   25  git push *
+   26  git push *
+   27  cd ../datasciencecoursera/
+   28  git --list
+   29  git clone
+   30  git status
+   31  git add HelloWorld.md
+   32  git push *
+   33  cd ../da.practice/
+   34  git add HelloWorld.md
+   35  cp ../datasciencecoursera/HelloWorld.md .
+   36  git add HelloWorld.md
+   37  git push *
+   38  cd ../datasciencecoursera/
+   39  git push *
+   40  git push *
+   41  man git
+   42  git help
+   43  git status
+   44  git rm --cached HelloWorld.md to unstage
+   45  git rm --cached HelloWorld.md 
+   46  ls
+   47  git push *
+   48  git config --global list
+   49  git config --list
+   50  cat history
+   51  history
+   52  cat ~/history-20150703-1.txt 
+   53  pwd
+   54  ls
+   55  pwd
+   56  git init
+   57  git remote add origin https://github.com/rempat/datasciencecoursera.git
+   58  git push .
+   59  git config  --global push.default simple
+   60  git push .
+   61  git clone https://github.com/rempat/datasciencecoursera.git
+   62  ls
+   63  git add HelloWorld.md
+   64  git push .
+   65  git push *
+   66  history >history-20150703-2.txt
